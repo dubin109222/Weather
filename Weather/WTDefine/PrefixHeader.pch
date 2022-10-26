@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  Weather
+//
+//  Created by 杜宾 on 2022/10/24.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import "Product.h"
+#import "Macro.h"
+#import "RequestDefine.h"
+#import <AFNetworking/AFNetworking.h>
+#import "Masonry.h"
+#import <YYCache/YYCache.h>
+
+#endif /* PrefixHeader_pch */
